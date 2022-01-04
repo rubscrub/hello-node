@@ -1,1 +1,1 @@
-console.log("RJ was here, he said hello! He like vinyl records too")
+console.log("RJ was here, he said hello!")
